@@ -12,3 +12,4 @@ C:\Users\victor.sousa\OneDrive - Adventistas\Área de Trabalho\DEV AT\C#\desafio
 C:\Users\victor.sousa\OneDrive - Adventistas\Área de Trabalho\DEV AT\C#\desafio-hotel-DIO\obj\Debug\net8.0\desafio-hotel-DIO.pdb
 C:\Users\victor.sousa\OneDrive - Adventistas\Área de Trabalho\DEV AT\C#\desafio-hotel-DIO\obj\Debug\net8.0\desafio-hotel-DIO.genruntimeconfig.cache
 C:\Users\victor.sousa\OneDrive - Adventistas\Área de Trabalho\DEV AT\C#\desafio-hotel-DIO\obj\Debug\net8.0\ref\desafio-hotel-DIO.dll
+C:\Users\victor.sousa\OneDrive - Adventistas\Área de Trabalho\DEV AT\C#\desafio-hotel-DIO\obj\Debug\net8.0\desafio-hotel-DIO.sourcelink.json

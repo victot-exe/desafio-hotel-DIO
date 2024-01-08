@@ -4,19 +4,21 @@ using desafio_hotel_DIO.models;
 Console.OutputEncoding = Encoding.UTF8;
 
 // Cria os modelos de hóspedes e cadastra na lista de hóspedes
-List<Pessoa> hospedes = new List<Pessoa>();
+List<Pessoa> hospedes = new ();
 
-Pessoa p1 = new Pessoa("Hóspede 1", "sobrenome 1");
-Pessoa p2 = new Pessoa("Hóspede 2", "sobrenome 2");
+Pessoa p1 = new("Victor", "Faria");
+Pessoa p2 = new("Icaro", "Faria");
+// Pessoa p3 = new("Linda", "Souza");
 
 hospedes.Add(p1);
 hospedes.Add(p2);
+// hospedes.Add(p3);
 
 // Cria a suíte
-Suite suite = new Suite(tipoSuite: "Premium", capacidade: 2, valorDiaria: 30);
+Suite suite = new(tipoSuite: "Premium", capacidade: 2, valorDiaria: 30);
 
 // Cria uma nova reserva, passando a suíte e os hóspedes
-Reserva reserva = new Reserva(diasReservados: 5);
+Reserva reserva = new Reserva(diasReservados: 10);
 reserva.CadastrarSuite(suite);
 reserva.CadastrarHospedes(hospedes);
 
