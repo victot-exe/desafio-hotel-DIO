@@ -1,0 +1,14 @@
+C:\Users\victor.sousa\OneDrive - Adventistas\Área de Trabalho\DEV AT\C#\desafio-hotel-DIO\bin\Debug\net8.0\desafio-hotel-DIO.exe
+C:\Users\victor.sousa\OneDrive - Adventistas\Área de Trabalho\DEV AT\C#\desafio-hotel-DIO\bin\Debug\net8.0\desafio-hotel-DIO.deps.json
+C:\Users\victor.sousa\OneDrive - Adventistas\Área de Trabalho\DEV AT\C#\desafio-hotel-DIO\bin\Debug\net8.0\desafio-hotel-DIO.runtimeconfig.json
+C:\Users\victor.sousa\OneDrive - Adventistas\Área de Trabalho\DEV AT\C#\desafio-hotel-DIO\bin\Debug\net8.0\desafio-hotel-DIO.dll
+C:\Users\victor.sousa\OneDrive - Adventistas\Área de Trabalho\DEV AT\C#\desafio-hotel-DIO\bin\Debug\net8.0\desafio-hotel-DIO.pdb
+C:\Users\victor.sousa\OneDrive - Adventistas\Área de Trabalho\DEV AT\C#\desafio-hotel-DIO\obj\Debug\net8.0\desafio-hotel-DIO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victor.sousa\OneDrive - Adventistas\Área de Trabalho\DEV AT\C#\desafio-hotel-DIO\obj\Debug\net8.0\desafio-hotel-DIO.AssemblyInfoInputs.cache
+C:\Users\victor.sousa\OneDrive - Adventistas\Área de Trabalho\DEV AT\C#\desafio-hotel-DIO\obj\Debug\net8.0\desafio-hotel-DIO.AssemblyInfo.cs
+C:\Users\victor.sousa\OneDrive - Adventistas\Área de Trabalho\DEV AT\C#\desafio-hotel-DIO\obj\Debug\net8.0\desafio-hotel-DIO.csproj.CoreCompileInputs.cache
+C:\Users\victor.sousa\OneDrive - Adventistas\Área de Trabalho\DEV AT\C#\desafio-hotel-DIO\obj\Debug\net8.0\desafio-hotel-DIO.dll
+C:\Users\victor.sousa\OneDrive - Adventistas\Área de Trabalho\DEV AT\C#\desafio-hotel-DIO\obj\Debug\net8.0\refint\desafio-hotel-DIO.dll
+C:\Users\victor.sousa\OneDrive - Adventistas\Área de Trabalho\DEV AT\C#\desafio-hotel-DIO\obj\Debug\net8.0\desafio-hotel-DIO.pdb
+C:\Users\victor.sousa\OneDrive - Adventistas\Área de Trabalho\DEV AT\C#\desafio-hotel-DIO\obj\Debug\net8.0\desafio-hotel-DIO.genruntimeconfig.cache
+C:\Users\victor.sousa\OneDrive - Adventistas\Área de Trabalho\DEV AT\C#\desafio-hotel-DIO\obj\Debug\net8.0\ref\desafio-hotel-DIO.dll
